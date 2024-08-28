@@ -1,7 +1,7 @@
 ### Hello World! Eu sou o João Assis 👋
 
 # 💫 Sobre mim:
-🌱 Aprendendo JavaScript e SQL<br>💬 Perfil focado em estudos<br>
+🌱 Sou estudante de Ciências da Computação na SPTech, apaixonado por tecnologia e desenvolvimento de software.<br>💻 No meu repositório, você encontrará projetos que desenvolvi ao longo da minha jornada acadêmica e pessoal. No momento, estou explorando tecnologias como JavaScript e banco de dados.<br> 📫 Sinta-se à vontade para me contatar para colaborar em projetos ou discutir novas ideias!
 
 
 ## 🌐 Socials:
